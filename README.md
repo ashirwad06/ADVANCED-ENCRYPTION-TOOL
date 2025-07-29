@@ -6,7 +6,6 @@ A robust encryption and decryption tool that secures your files using AES-256 al
 A powerful GUI-based file encryption and decryption tool using the AES-256 algorithm. Secure your files with ease.
 
 ## Features
-
 - AES-256 encryption & decryption
 - File selection and password input via GUI
 - Simple and clean interface
@@ -16,7 +15,6 @@ A powerful GUI-based file encryption and decryption tool using the AES-256 algor
 ##  Project Files
 
 ```
-
 📁 advanced-encryption-tool/
 ├── main.py              # Python source code
 ├── encryption\_tool.exe  # Pre-built Windows executable
@@ -49,9 +47,7 @@ A powerful GUI-based file encryption and decryption tool using the AES-256 algor
    ```bash
    python main.py
    ```
-
 ##  Important Notes
-
 * Encrypted files are saved with a `.enc` extension.
 * Use the same password to decrypt that you used to encrypt.
 * Losing the password means permanent loss of data.
