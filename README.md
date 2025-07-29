@@ -35,18 +35,16 @@ A powerful GUI-based file encryption and decryption tool using the AES-256 algor
    - Click "Encrypt" or "Decrypt"
 
 ### Option 2: Run using `main.py` (Requires Python)
-
 1. Ensure Python 3.x is installed.
 2. Install required packages:
    ```bash
    pip install pycryptodome
-````
 
 3. Run the script:
 
    ```bash
    python main.py
-   ```
+  
 
 
 
