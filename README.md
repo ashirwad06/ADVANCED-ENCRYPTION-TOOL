@@ -47,6 +47,9 @@ A powerful GUI-based file encryption and decryption tool using the AES-256 algor
    ```bash
    python main.py
    ```
+
+
+
 ##  Important Notes
 * Encrypted files are saved with a `.enc` extension.
 * Use the same password to decrypt that you used to encrypt.
